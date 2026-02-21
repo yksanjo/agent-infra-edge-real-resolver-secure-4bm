@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-edge-real-resolver-secure-4bm",
+  "version": "1.0.0",
+  "description": "Database and storage abstraction layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "edge-real-resolver-secure-4bm"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-edge-real-resolver-secure-4bm.git"
+  }
+}
